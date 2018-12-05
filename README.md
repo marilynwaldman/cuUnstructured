@@ -13,7 +13,7 @@
 
 
 
-##  pull the spark image and start a Spark Notebook - this takes a long time to download
+##  Pull the spark image and start a Spark Notebook - this takes a long time to download
 
 ````
     docker pull  jupyter/all-spark-notebook
@@ -21,26 +21,26 @@
 ```` 
 
 
-##  run the  image and start a Spark Notebook - this takes a long time to download
+##  Run the image and start Jupyter - this takes a long time to download
 
 ````
     docker run  -it --rm -p 8888:8888 -v $HOME/cuUnstructured:/home/jovyan --name spark jupyter/all-spark-notebook
 
 ```` 
-#### it should look like this - copy (CNTL-C ) the token
+#### It should look like this - copy (CNTL-C ) the token
 
 ![Screenshot](token.png)
 
 
-##  go to localhost:8888
+##  Go to localhost:8888
 
 ![Screenshot](localhost.png) 
 
-##  paste your token
+##  Paste your token into the box
 
 ![Screenshot](copypastetoken.png) 
 
-##  you should see jupyter notebooks
+##  Jupyter notebooks should appear.
 
 ![Screenshot](sparknotebook.png) 
 
