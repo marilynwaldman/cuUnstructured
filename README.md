@@ -4,7 +4,7 @@
 
 
 ````
-    $ rm -rf cuSparkDocker
+    $ rm -rf cuUnstructured
     $ git clone  https://github.com/marilynwaldman/cuUnstructured.git && rm -rf cuUnstructured/.git
 
         or
