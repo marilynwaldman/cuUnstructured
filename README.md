@@ -1,6 +1,6 @@
-##  Install Github and git
+##  Signup on Github and Git locally on your machine
 ##  Install Docker
-##  From your home directory get this repo
+##  From your home directory clone this repo.  Open a terminal window and do the following:
 
 
 ````
@@ -13,21 +13,21 @@
 
 
 
-##  Pull the spark image and start a Spark Notebook - this takes a long time to download
+##  From the termainal window pull the spark image. This takes a long time to download
 
 ````
-    docker pull  jupyter/all-spark-notebook
+    $ docker pull  jupyter/all-spark-notebook
 
 ```` 
 
 
-##  Run the image and start Jupyter - this takes a long time to download
+##  From the terminal window run the image and start Jupyter 
 
 ````
-    docker run  -it --rm -p 8888:8888 -v $HOME/cuUnstructured:/home/jovyan --name spark jupyter/all-spark-notebook
+    $ docker run  -it --rm -p 8888:8888 -v $HOME/cuUnstructured:/home/jovyan --name spark jupyter/all-spark-notebook
 
 ```` 
-#### It should look like this - copy (CNTL-C ) the token
+#### It should look like this.  Copy (CNTL-C ) the token
 
 ![Screenshot](token.png)
 
