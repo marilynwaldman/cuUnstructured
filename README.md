@@ -42,7 +42,7 @@
 
 ##  you should see jupyter notebooks
 
-![Screenshot](sparknotebooks.png) 
+![Screenshot](sparknotebook.png) 
 
 
 
