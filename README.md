@@ -1,16 +1,13 @@
 ##  Install Github and git
 ##  Install Docker
-##  Get this repo
+##  From your home directory get this repo
 
 
 ````
+    $ cd
     $ rm -rf cuUnstructured
     $ git clone  https://github.com/marilynwaldman/cuUnstructured.git && rm -rf cuUnstructured/.git
 
-        or
-    Download git@github.com:marilynwaldman/cuUnstructured.git
-    $  mkdir cuUnstructured
-    $  cd cuUnstructured
 ````
 
 
@@ -27,9 +24,11 @@
 ##  run the  image and start a Spark Notebook - this takes a long time to download
 
 ````
-    docker run  -it --rm -p 8888:8888 -v /Users/marilynwaldman/cuUnstructured:/home/jovyan --name spark jupyter/all-spark-notebook
+    docker run  -it --rm -p 8888:8888 -v $HOME/cuUnstructured:/home/jovyan --name spark jupyter/all-spark-notebook
 
 ```` 
+
+![Screenshot](token.png)
 
 
 ##  go to localhost:8888 and put in the token  
