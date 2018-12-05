@@ -1,6 +1,6 @@
-##Install Github and git
-##Install Docker
-#Get this repo
+##  Install Github and git
+##  Install Docker
+##  Get this repo
 
 
 ````
@@ -19,7 +19,7 @@
 ##  pull the spark image and start a Spark Notebook - this takes a long time to download
 
 ````
-    docker run  -it --rm -p 8888:8888 -v /Users/marilynwaldman/cuUnstructured:/home/jovyan --name spark jupyter/all-spark-notebook
+    docker pull  jupyter/all-spark-notebook
 
 ```` 
 
