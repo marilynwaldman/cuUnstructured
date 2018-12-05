@@ -25,7 +25,7 @@
 
 ````
     $ cd
-    $ docker run  -it --rm -p 8888:8888 -v $HOME/cuUnstructured:/home/jovyan --name spark jupyter/all-spark-notebook
+    $ docker run  -it --rm -p 8888:8888 -v $HOME/cuUnstructured/work:/home/jovyan --name spark jupyter/all-spark-notebook
 
 ```` 
 #### It should look like this.  Copy (CNTL-C ) the token

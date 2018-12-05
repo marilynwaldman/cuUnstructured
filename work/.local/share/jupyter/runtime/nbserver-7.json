@@ -3,9 +3,9 @@
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
-  "pid": 8,
+  "pid": 7,
   "port": 8888,
   "secure": false,
-  "token": "6be2e5fd76db41cf7bacd355156fed235ac2eaa430ecdb0f",
+  "token": "b68837bfc9c9da6b298fdd5eefd171dd9d75099a524d3033",
   "url": "http://0.0.0.0:8888/"
 }
