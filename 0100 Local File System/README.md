@@ -136,7 +136,7 @@
   ls -l
   ```
 
-![Screenshot](images/remove.png)
+![Screenshot](images/removedir.png)
 
 
  
