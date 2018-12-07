@@ -26,10 +26,28 @@
   pwd
   ```
 
-`
-
-
    ![Screenshot](images/pwd.png) 
+
+4. Copy and paste the following commands
+
+  ```bash
+  mkdir mydir
+  ```
+5. Copy and paste the following commands
+
+  ```bash
+  cd mydir
+  ```
+5. Copy and paste the following commands
+
+  ```bash
+  pwd
+  ls
+  ls -l
+  ```
+
+   ![Screenshot](images/mkdirCdLs.png) 
+
 
 
 ![Screenshot](sparknotebook.png) 
