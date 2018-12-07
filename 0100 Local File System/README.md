@@ -46,7 +46,24 @@
   ls -l
   ```
 
-   ![Screenshot](images/mkdirCdLs.png) 
+![Screenshot](images/mkdirCdls.png)
+
+
+6. Append some lines to an empty file 
+
+  ```bash
+  echo "The quick brown fox " >> myfile
+  ```
+  ```bash
+  cat myfile
+  ```
+
+![Screenshot](images/echomyfile.png)
+
+  ```
+
+
+   
 
 
 
