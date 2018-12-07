@@ -2,9 +2,15 @@
 2.  Install Docker
 3.  From your home directory clone this repo.  Open a terminal window and do the following:
 
-```console
-foo@bar:~$ whoami
-foo
+
+
+### hello
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
 ```
 
 
