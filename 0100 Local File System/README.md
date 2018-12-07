@@ -1,14 +1,13 @@
 ##  MAC OS FILE SYSTEM COMMANDS
 
-1.  Present Working Directory
+* Present Working Directory
 
-```console
-  pwd
-
-```
 
 ```bash
   pwd
+  cd \
+  copy a b
+  ping 192.168.0.1
 
 ```
 
