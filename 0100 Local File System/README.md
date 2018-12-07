@@ -10,6 +10,8 @@
 * mv    - Rename or move a file
 * rm    - Remove a file or a directory
 
+
+
 1. Find the TERMINAL icon on the bottom toolbar.
 
 ![Screenshot](images/findterminalwindow.png) 
