@@ -16,6 +16,12 @@
   wc -l en_US.twitter.txt 
 ```
 
+```bat
+cd \
+copy a b
+ping 192.168.0.1
+```
+
 
 
 
