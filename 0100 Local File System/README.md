@@ -83,10 +83,25 @@
   ls -l
   ```
   ```bash
-  cat myfile_copy_
+  cat myfile_copy
   ```
 
 ![Screenshot](images/copy.png)
+
+7. Move or rename myfile_copy
+
+  ```bash
+  mv myfile_copy old
+  ```
+  ```bash
+  ls -l
+  ```
+  ```bash
+  cat old
+  ```
+
+![Screenshot](images/move.png)
+
  
 
 
