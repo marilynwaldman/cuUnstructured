@@ -1,14 +1,11 @@
-##  1.  Signup on Github and install Git locally on your machine.
-##  2.  Install Docker
-##  3.  From your home directory clone this repo.  Open a terminal window and do the following:
+##  MAC OS FILE SYSTEM COMMANDS
 
+1.  Present Working Directory
 
-````
-    $ cd
-    $ rm -rf cuUnstructured
-    $ git clone  https://github.com/marilynwaldman/cuUnstructured.git && rm -rf cuUnstructured/.git
+```console
+  pwd
 
-````
+```
 
 
 

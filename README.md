@@ -1,18 +1,6 @@
-1.  Signup on Github and install Git locally on your machine.
-2.  Install Docker
-3.  From your home directory clone this repo.  Open a terminal window and do the following:
-
-
-
-### hello
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```
-
+## 1.  Signup on Github and install Git locally on your machine.
+## 2.  Install Docker
+## 3.  From your home directory clone this repo.  Open a terminal window and do the following:
 
 ````
     $ cd
