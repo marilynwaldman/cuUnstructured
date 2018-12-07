@@ -116,6 +116,29 @@
 
 ![Screenshot](images/remove.png)
 
+8. Move up on level in the directory tree - back to your home directory or where you started
+
+  ```bash
+  cd ..
+  ```
+  ```bash
+  pwd
+  ```
+
+![Screenshot](images/uponelevel.png)
+
+8. Delete directory mydir and all files in it
+
+  ```bash
+  rm -rf mydir
+  ```
+  ```bash
+  ls -l
+  ```
+
+![Screenshot](images/remove.png)
+
+
  
 
 
