@@ -10,7 +10,7 @@
 * mv    - Rename or move a file
 * rm    - Remove a file or a directory
 
-
+## Exercies
 
 1. Find the TERMINAL icon on the bottom toolbar.
 
@@ -22,7 +22,12 @@
 
 3. Copy and paste the following commands
 
-   * pwd
+  ```bash
+  pwd
+  ```
+
+`
+
 
    ![Screenshot](images/pwd.png) 
 
