@@ -11,9 +11,18 @@
 * rm    - Remove a file or a directory
 
 1. Find the TERMINAL icon on the bottom toolbar.
+
 ![Screenshot](images/findterminalwindow.png) 
 
-2. Open a window
+2. Open a terminal
+
+![Screenshot](images/terminalwindow.png) 
+
+3. Copy and paste the following commands
+
+   * pwd
+
+   ![Screenshot](images/pwd.png) 
 
 
 ![Screenshot](sparknotebook.png) 
