@@ -102,6 +102,20 @@
 
 ![Screenshot](images/move.png)
 
+7. Delete old
+
+  ```bash
+  rm old
+  ```
+  ```bash
+  ls -l
+  ```
+  ```bash
+  cat old
+  ```
+
+![Screenshot](images/remove.png)
+
  
 
 
