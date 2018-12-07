@@ -60,6 +60,23 @@
 
 ![Screenshot](images/echomyfile.png)
 
+7. Append two more lines
+
+  ```bash
+  echo "jumped over  " >> myfile
+  ```
+  ```bash
+  echo "the lazy dog's back." >> myfile
+  ```
+  ```bash
+  cat myfile
+  ```
+
+![Screenshot](images/lazydog.png)
+  ```
+
+
+
   ```
 
 
