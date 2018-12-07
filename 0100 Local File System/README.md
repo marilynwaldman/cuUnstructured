@@ -10,7 +10,13 @@
 * mv    - Rename or move a file
 * rm    - Remove a file or a directory
 
+1. Find the TERMINAL icon on the bottom toolbar.
+![Screenshot](images/findterminalwindow.png) 
 
+2. Open a window
+
+
+![Screenshot](sparknotebook.png) 
 
 1. Present Working Directory - what directory are you currently in
 ```bash
@@ -19,7 +25,7 @@
 
 
 
-![Screenshot](sparknotebook.png) 
+![Screenshot](images/findterminalwindow.png) 
 
 
 
