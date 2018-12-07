@@ -46,7 +46,7 @@
   ls -l
   ```
 
-![Screenshot](images/mkdirCdls.png)
+![Screenshot](images/mkdirCdLs.png)
 
 
 6. Append some lines to an empty file 
@@ -73,27 +73,21 @@
   ```
 
 ![Screenshot](images/lazydog.png)
+
+7. Copy myfile to myfile_copy
+
+  ```bash
+  cp myfile myfile_copy
+  ```
+  ```bash
+  ls -l
+  ```
+  ```bash
+  cat myfile_copy_
   ```
 
-
-
-  ```
-
-
-   
-
-
-
-![Screenshot](sparknotebook.png) 
-
-1. Present Working Directory - what directory are you currently in
-```bash
-  pwd
-```
-
-
-
-![Screenshot](images/findterminalwindow.png) 
+![Screenshot](images/copy.png)
+ 
 
 
 
