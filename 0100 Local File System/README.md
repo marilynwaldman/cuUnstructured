@@ -3,7 +3,7 @@
 * pwd   - Present Working Directory
 * mkdir - Make Directory
 * cd    - Change Directory
-* />>    - Append to a file (redirect output)
+* >>    - Append to a file (redirect output)
 * ls    - List the contents of a file
 * cat   - List the contents of a file
 * cp    - Copy a file
