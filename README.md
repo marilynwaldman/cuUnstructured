@@ -30,13 +30,13 @@ Email:  TBD
 |February 25  | [Spark 2](##spark2)         |
 |March 4  | [Spark 3](##spark3)         |
 |March 11 | [Spark 4](##spark4)         |
-|March 18  | [Exam 2](##exam 2)         |
+|March 18  | [Exam 2](##exam2)         |
 |March 25 | [Spring Break – NO CLASS](##springbreak)         |
 |April 1  | [Introduction to Cassandra](##Cassandra)         |
 |April 8  | [Streaming 1](##Streaming1)         |
 |April 15  | [Streaming 2](##Streaming2)         |
 |April 22  | [Streaming 3](##Streaming3)         |
-|April 29  | [Streaming](# 4#Streaming4)         |
+|April 29  | [Streaming 4](##Streaming4)         |
 |Final  | To be announced         |
 
 
