@@ -138,6 +138,8 @@
 
 ![Screenshot](images/removedir.png)
 
+9.  End your terminal session by clicking the red button on the window
+
 
  
 
