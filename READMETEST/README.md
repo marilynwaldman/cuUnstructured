@@ -13,20 +13,6 @@
 | Content Cell  | [Installation](#installation)         |
 | Content Cell  | [Output example](#output-example) |
 
-GitHub Changelog Generator ![GitHub Logo](../master/images/logo.jpg)
-==================
-
-  - [Installation](#installation)
-  - [Output example](#output-example)
-  - [Usage](#usage)
-    - [Params](#params)
-    - [GitHub token](#github-token)
-  - [Features and advantages of this project](#features-and-advantages-of-this-project)
-    - [Alternatives](#alternatives)
-    - [Projects using this library](#projects-using-this-library)
-  - [Am I missing some essential feature?](#am-i-missing-some-essential-feature)
-  - [Contributing](#contributing)
-  - [License](#license)
 
 
 ### Changelog generation has never been so easy
