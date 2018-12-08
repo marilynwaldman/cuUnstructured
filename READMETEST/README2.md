@@ -39,7 +39,7 @@ release (or version) of the project."
 
 :arrow_right: *[http://keepachangelog.com](http://keepachangelog.com)*
 
-## Installation
+# Installation
 
 GitHub Changelog Generator is a [Ruby](https://www.ruby-lang.org/)
 program, distributed as a RubyGem. The Ruby language homepage has an [Installation page](https://www.ruby-lang.org/en/documentation/installation/).
