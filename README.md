@@ -21,10 +21,12 @@ Email:  TBD
 
 | Date  | Topic |
 | ------------- | ------------- |
-| Content Cell  | [Installation](#installation)         |
-|January 14  | [Setup](##setuo)     |
-|January 21 |  [MLK No Class](##MLK )        |
-|January 28 | [Hive 1](##hive1)         |       
+| Content Cell  | [Installation](#Installation)         |
+|January 14  | [Setup now](#Setup-now)     |
+
+|January 14  | [Setup](#setuo)     |
+|January 21 |  [MLK No Class](#MLK )        |
+|January 28 | [Hive 1](#hive1)         |       
 |February 4  | [Hive 2](##hive2)         |
 |February 11  | [Exam 1](##exam1)  
 |February 18 | [Spark 1](##spark1)         |
@@ -40,9 +42,11 @@ Email:  TBD
 |April 29  | [Streaming 4](##Streaming4)         |
 |Final  | To be announced         |
 
-# Installion
+## Installation
 
-## Setup
+# Setup now
+
+
 
 ## MLK - No Class
 
