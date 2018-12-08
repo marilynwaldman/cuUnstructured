@@ -11,7 +11,7 @@
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | [Installation](#installation)         |
-| Content Cell  | [Contribution guidelines for this project](READMETEST/README2.md) |
+| Content Cell  | [Output example](#output-example) |
 
 GitHub Changelog Generator ![GitHub Logo](../master/images/logo.jpg)
 ==================
