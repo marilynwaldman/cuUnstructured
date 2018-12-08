@@ -1,3 +1,5 @@
+[Contribution guidelines for this project](READMETEST/README.md)
+
 ## 1.  Signup on Github and install Git locally on your machine.
 ## 2.  Install Docker
 ## 3.  From your home directory clone this repo.  Open a terminal window and do the following:
