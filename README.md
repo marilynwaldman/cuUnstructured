@@ -1,16 +1,16 @@
 
-## MSBX 5420  - Unstructured and Distributed Data Modeling and Analysis
+# MSBX 5420  - Unstructured and Distributed Data Modeling and Analysis
 
-###Instructor:  Dr. Spencer Stirling
+### Instructor:  Dr. Spencer Stirling
 
-#####TA: Marilyn Waldman
+##### TA: Marilyn Waldman
 
-######Office hours:
+###### Office hours:
 
 
-######Email:  TBD
-######Phone:  TBD
-######Office:  TBD
+###### Email:  TBD
+###### Phone:  TBD
+###### Office:  TBD
 
 Marilyn Waldman
 Email:  TBD
