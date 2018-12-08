@@ -45,6 +45,8 @@ Email:  TBD
 
 ## Hive 1
 
+## Hive 2
+
 ## Exam 1
 
 ## Spark 1
@@ -69,9 +71,6 @@ Email:  TBD
 
 ## Streaming 4
 
-
-
-## Introduction to Cassandra
 
 
 
