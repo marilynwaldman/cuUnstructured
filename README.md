@@ -25,7 +25,7 @@ Email:  TBD
 |January 21 |  [MLK No Class](##MLK )        |
 |January 28 | [Hive 1](##hive1)         |       
 |February 4  | [Hive 2](##hive2)         |
-|February 11  | [Exam 1](##exam 1)  
+|February 11  | [Exam 1](##exam1)  
 |February 18 | [Spark 1](##spark1)         |
 |February 25  | [Spark 2](##spark2)         |
 |March 4  | [Spark 3](##spark3)         |
