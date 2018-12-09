@@ -39,6 +39,31 @@ Email:  TBD
 |April 29  | [Streaming 4](#Streaming-4)         |
 |Final  | To be announced         |
 
+## Directory Structure
+
+
+| Directory | Topic | Link |
+| ------------- | ------------- |------------- |
+|0100  | Local File System and OS      | |
+|0200 |  Hadoop        ||
+|0300 | Spark       ||
+|0400 | Hive       ||
+|0500 | Cassandra       ||
+|0600 | Streaming      ||
+
+## Technology Stacks
+
+
+| Stack | Source |  |
+| ------------- | ------------- |------------- |
+|Hadoop |      | |
+|Hive|          ||
+|Spark | All Spark Notebook|[AllSparkNotebook](https://hub.docker.com/r/jupyter/all-spark-notebook/)|
+|Cassandra |  DataStax |[cassandra](https://medium.com/@michaeljpr/five-minute-guide-getting-started-with-cassandra-on-docker-4ef69c710d84)
+                       |
+|Kafka |       ||
+
+
 ## Installation
    -  January 14
    - [x] Practice Local File System Commands - pwd,cd,ls,mv,cp,rm,cat
