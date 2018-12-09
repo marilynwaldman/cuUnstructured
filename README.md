@@ -47,7 +47,7 @@ Email:  TBD
    - [ ] Install Git - Windows
    - [ ] Install Git - Mac
    - [ ] Docker Practice - pull,run,stop,ps, ps -a
-   - [ ] Install Hadoop  
+   - [ ] Install Hadoop  ????  which one  ???
      - [ ] https://github.com/sequenceiq/hadoop-docker
      - [ ] https://github.com/gillax/docker-hive - that has hive - CANNOT EXEC INTO CONTAINER
    - [ ] Practice HDFS commands - ls, copy to/from local, cat mv ....
@@ -74,7 +74,7 @@ Email:  TBD
 ## Hive 2
 
    -  February 4
-   - [ ] https://github.com/gillax/docker-hive - that has hive - CANNOT EXEC INTO CONTAINER
+   - [ ] https://github.com/gillax/docker-hive ???  CANNOT EXEC INTO CONTAINER
 
 
 | Lab  | Folder |  Readme|
@@ -85,12 +85,12 @@ Email:  TBD
 
 ## Spark 1
    -  February 18
-   - [ ] Install Spark
+   - [ ] Install Spark - using [All Spark NoteBook](https://hub.docker.com/r/jupyter/all-spark-notebook/)
 
 
 | Lab  | Folder |  Readme|
 | ------------- | ------------- | ------------- |
-| | |      | 
+| Install Spark |0300SparkInstall |  [Install Spark](0300SparkInstall/README.md)    | 
 
 
 ## Spark 2
