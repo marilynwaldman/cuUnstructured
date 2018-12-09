@@ -17,7 +17,8 @@
 
 
 
-### 2.  From the terminal window pull the spark image. This takes a long time to download
+### 2.  From the terminal window pull the spark image. 
+        This takes a long time to download so please run this before coming to class.
 
 ````
     $ docker pull  jupyter/all-spark-notebook
