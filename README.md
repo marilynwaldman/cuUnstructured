@@ -40,6 +40,15 @@ Email:  TBD
 |Final  | To be announced         |
 
 ## Installation
+   -  January 14
+
+|   | Topic |
+| ------------- | ------------- |
+|[ ] Mercury | [Installation](#Installation)     |
+
+- [ ] Mercury
+- [x] Venus
+
 
 ## MLK No Class
 
