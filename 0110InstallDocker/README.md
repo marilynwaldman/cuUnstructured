@@ -5,11 +5,13 @@
 ## Download and Install
 ### OS X & Linux:
 
-[MAC Installation Instructions](https://docs.docker.com/docker-for-mac/install/) a
+[MAC Installation Instructions](https://docs.docker.com/docker-for-mac/install/) 
 
   - Download docker
   
-  ![Screenshot](images/Download.png) 
+      ![Screenshot](images/Download.png) 
+  
+  
   
   - Drag to Apps 
   
