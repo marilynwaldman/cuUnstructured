@@ -1,9 +1,12 @@
-[Contribution guidelines for this project](READMETEST/README.md)
 
-## 1.  Signup on Github and install Git locally on your machine.
-## 2.  Install Docker
-## 3.  From your home directory clone this repo.  Open a terminal window and do the following:
 
+####  Prerequites
+
+   - Docker
+   - Git
+   
+### 1.  Go to your $HOME directory and get class notebooks  
+   
 ````
     $ cd
     $ rm -rf cuUnstructured
@@ -14,7 +17,7 @@
 
 
 
-##  4.  From the terminal window pull the spark image. This takes a long time to download
+### 2.  From the terminal window pull the spark image. This takes a long time to download
 
 ````
     $ docker pull  jupyter/all-spark-notebook
@@ -22,7 +25,7 @@
 ```` 
 
 
-##  5.  From the terminal window run the image and start Jupyter.  Make sure you are in your $Home directory. 
+###  3.  From the terminal window run the image and start Jupyter.  Make sure you are in your $Home directory. 
 
 ````
     $ cd
@@ -34,15 +37,15 @@
 ![Screenshot](images/token.png)
 
 
-##  6.  Go to localhost:8888
+###  4.  Go to localhost:8888
 
 ![Screenshot](images/localhost.png) 
 
-##  7.  Paste your token into the box
+###  5.  Paste your token into the box
 
 ![Screenshot](images/copypastetoken.png) 
 
-##  8.  Jupyter notebooks should appear.
+###  6.  Jupyter notebooks should appear.
 
 ![Screenshot](images/sparknotebook.png) 
 
