@@ -45,7 +45,7 @@ Email:  TBD
 | Lab  | Folder |  Readme|
 | ------------- | ------------- | ------------- |
 |Local File System  | 0100LocalFileSystem |  [Installation](0100LocalFileSystem/README.md)     |     
-|
+
 
 
 - [ ] Mercury [Installation](#Installation)
