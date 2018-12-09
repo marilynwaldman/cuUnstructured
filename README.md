@@ -42,11 +42,13 @@ Email:  TBD
 ## Installation
    -  January 14
 
-|   | Topic |
-| ------------- | ------------- |
-|[ ] Mercury | [Installation](#Installation)     |
+| Lab  | Folder |  Readme|
+| ------------- | ------------- | ------------- |
+|Local File System  | 0100LocalFileSystem |  [Installation](0100LocalFileSystem/README.md)     |     
+|
 
-- [ ] Mercury
+
+- [ ] Mercury [Installation](#Installation)
 - [x] Venus
 
 
