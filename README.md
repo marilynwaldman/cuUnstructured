@@ -104,6 +104,16 @@ Email:  TBD
 ## Spring Break NO CLASS
 
 ## Introduction to Cassandra
+   -  April 1
+   - [x] Install Cassandra - follow this 
+     [cassandra](https://medium.com/@michaeljpr/five-minute-guide-getting-started-with-cassandra-on-docker-4ef69c710d84)
+  
+  
+
+| Lab  | Folder |  Readme|
+| ------------- | ------------- | ------------- |
+|  |  |       |   
+   
 
 ## Streaming 1
 
