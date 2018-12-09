@@ -44,7 +44,7 @@ Email:  TBD
 
 | Directory | Topic | Link |
 | ------------- | ------------- |------------- |
-|0100 | Local File System and OS      | |
+|0100 | Stack - Local cmd-line, Docker, Git      | |
 |0200 | Hadoop        ||
 |0300 | Spark       ||
 |0400 | Hive       ||
