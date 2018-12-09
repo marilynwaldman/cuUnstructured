@@ -5,7 +5,7 @@
 ## Download and Install
 ### OS X & Linux:
 
-[MAC Install](https://docs.docker.com/docker-for-mac/install/)
+[MAC Installation Instructions](https://docs.docker.com/docker-for-mac/install/) a
 
   - Download docker
   
@@ -34,7 +34,7 @@ Marilyns-MacBook-Pro:~ marilynwaldman$
     
 ### Windows:
 
-[Windows Install](https://docs.docker.com/docker-for-windows/install/)
+[Windows Installation Instructions](https://docs.docker.com/docker-for-windows/install/)
 
   - Download executable
   ![Screenshot](images/DownloadWIndows.png) 
