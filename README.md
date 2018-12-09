@@ -44,12 +44,14 @@ Email:  TBD
 
 | Directory | Topic | Link |
 | ------------- | ------------- |------------- |
-|0100  | Local File System and OS      | |
-|0200 |  Hadoop        ||
+|0100 | Local File System and OS      | |
+|0200 | Hadoop        ||
 |0300 | Spark       ||
 |0400 | Hive       ||
 |0500 | Cassandra       ||
 |0600 | Streaming      ||
+|work | Jupyter Notebooks     ||
+
 
 ## Technology Stack
 
