@@ -51,7 +51,7 @@ Email:  TBD
 |0500 | Cassandra       ||
 |0600 | Streaming      ||
 
-## Technology Stacks
+## Technology Stack
 
 
 | Stack | Source |  |
@@ -59,8 +59,7 @@ Email:  TBD
 |Hadoop |      | |
 |Hive|          ||
 |Spark | All Spark Notebook|[AllSparkNotebook](https://hub.docker.com/r/jupyter/all-spark-notebook/)|
-|Cassandra |  DataStax |[cassandra](https://medium.com/@michaeljpr/five-minute-guide-getting-started-with-cassandra-on-docker-4ef69c710d84)
-                       |
+|Cassandra |  DataStax |[cassandra](https://medium.com/@michaeljpr/five-minute-guide-getting-started-with-cassandra-on-docker-4ef69c710d84)|
 |Kafka |       ||
 
 
