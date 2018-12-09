@@ -44,8 +44,13 @@ Email:  TBD
    - [x] Practice Local File System Commands - pwd,cd,ls,mv,cp,rm,cat
    - [ ] Install Docker - Windows
    - [ ] Install Docker - MAC
+   - [ ] Install Git - Windows
+   - [ ] Install Git - Mac
    - [ ] Docker Practice - pull,run,stop,ps, ps -a
-   
+   - [ ] Install Hadoop  
+     - [ ] https://github.com/sequenceiq/hadoop-docker
+     - [ ] https://github.com/gillax/docker-hive - that has hive - CANNOT EXEC INTO CONTAINER
+   - [ ] Practice HDFS commands - ls, copy to/from local, cat mv ....
       
 
 
@@ -58,11 +63,34 @@ Email:  TBD
 
 ## Hive 1
 
+   -  January 28
+   - [ ] https://github.com/gillax/docker-hive - that has hive - CANNOT EXEC INTO CONTAINER
+
+
+| Lab  | Folder |  Readme|
+| ------------- | ------------- | ------------- |
+| | |      | 
+
 ## Hive 2
+
+   -  February 4
+   - [ ] https://github.com/gillax/docker-hive - that has hive - CANNOT EXEC INTO CONTAINER
+
+
+| Lab  | Folder |  Readme|
+| ------------- | ------------- | ------------- |
+| | |      | 
 
 ## Exam 1
 
 ## Spark 1
+   -  February 18
+   - [ ] Install Spark
+
+
+| Lab  | Folder |  Readme|
+| ------------- | ------------- | ------------- |
+| | |      | 
 
 
 ## Spark 2

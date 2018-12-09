@@ -31,20 +31,20 @@
 ```` 
 #### It should look like this.  Copy (CNTL-C ) the token
 
-![Screenshot](token.png)
+![Screenshot](images/token.png)
 
 
 ##  6.  Go to localhost:8888
 
-![Screenshot](localhost.png) 
+![Screenshot](images/localhost.png) 
 
 ##  7.  Paste your token into the box
 
-![Screenshot](copypastetoken.png) 
+![Screenshot](images/copypastetoken.png) 
 
 ##  8.  Jupyter notebooks should appear.
 
-![Screenshot](sparknotebook.png) 
+![Screenshot](images/sparknotebook.png) 
 
 
 
