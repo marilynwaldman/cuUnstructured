@@ -41,16 +41,18 @@ Email:  TBD
 
 ## Installation
    -  January 14
+   - [x] Practice Local File System Commands - pwd,cd,ls,mv,cp,rm,cat
+   - [ ] Install Docker - Windows
+   - [ ] Install Docker - MAC
+   - [ ] Docker Practice - pull,run,stop,ps, ps -a
+   
+      
+
 
 | Lab  | Folder |  Readme|
 | ------------- | ------------- | ------------- |
-|Local File System  | 0100LocalFileSystem |  [Installation](0100LocalFileSystem/README.md)     |     
-
-
-
-- [ ] Mercury [Installation](#Installation)
-- [x] Venus
-
+|Local File System  | 0100LocalFileSystem |  [Local File System](0100LocalFileSystem/README.md)     |   
+   
 
 ## MLK No Class
 
@@ -61,6 +63,7 @@ Email:  TBD
 ## Exam 1
 
 ## Spark 1
+
 
 ## Spark 2
 
