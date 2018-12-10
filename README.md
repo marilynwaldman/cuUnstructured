@@ -82,8 +82,10 @@ Email:  TBD
 
 | Lab  | Folder |  Readme|
 | ------------- | ------------- | ------------- |
-|Local File System  | 0100LocalFileSystem |  [Local File System](0100LocalFileSystem/README.md)     |   
-   
+|Local File System  | 0100LocalFileSystem |  [Local File System](0100LocalFileSystem/README.md)     | 
+|Install Docker  | 0110InstallDocker  |[Install Docker](0110InstallDocker/README.md)     | 
+|Docker hello-world  |0120DockerHelloWorld|  [Docker #1 Hello World](0120DockerHelloWorld/README.md)     | 
+|Docker Nginx  |0130DockerNginx|  [Docker #2 Nginx](0130DockerNginx/README.md)        
 
 ## MLK No Class
 
