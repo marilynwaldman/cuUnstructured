@@ -3,8 +3,10 @@
    - docker run
    - docker images
    - docker ps, docker ps -a
-    
-[Docker Tutorial](https://docs.docker.com/get-started/) 
+   
+   [Docker Tutorial](https://docs.docker.com/get-started/) 
+   
+   [Digital Ocean Tutorial](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
 
 ## Docker concepts
 Docker is a platform for developers and sysadmins to develop, deploy, and run applications with containers. 
