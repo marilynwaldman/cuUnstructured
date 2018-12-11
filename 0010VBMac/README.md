@@ -2,10 +2,8 @@
 > Install VirtualBox and Vagrant on MAC OS
 
 
-## Download and Install
-### Open a browser window and go to:
-
-[Download VirtualBox](https://www.virtualbox.org/wiki/Downloads) 
+## Download and Install VirtualBox
+### Open a browser window and go to:  [Download VirtualBox](https://www.virtualbox.org/wiki/Downloads) 
 
   - Download VirtualBox
   
@@ -38,33 +36,36 @@
        ![Screenshot](images/movetotrash.png)         
   
  
-  $docker ps
-```    
+## Download and Install Vagrant
+### Open a browser window and go to:  [Download Vagrant](https://www.vagrantup.com/downloads.html) 
 
-You should see:
-
-````
-Marilyns-MacBook-Pro:~ marilynwaldman$ docker ps
-CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
-Marilyns-MacBook-Pro:~ marilynwaldman$ 
- 
-````
-    
-### Windows:
-
-[Windows Installation Instructions](https://docs.docker.com/docker-for-windows/install/)
-
-  - Download executable
-  ![Screenshot](images/DownloadWIndows.png) 
+- Download VirtualBox
   
-  - Run the .exe file
-  ![Screenshot](images/exe.png) 
-  
-  - Start Docker
-    ![Screenshot](images/start.png) 
+     ![Screenshot](images/downloadvagrant.png) 
+      
+  - Go to you Downloads directory from Finder
     
-  - Open a terminal and type 'ps'
-      ![Screenshot](images/openterm.png)   
-
-
-
+     ![Screenshot](images/vagrantdownload.png)      
+  
+  - Drag to Apps 
+  
+  - Double click and Run
+  
+       ![Screenshot](images/vagrantdoubleclick.png) 
+  
+  - Installation
+    
+       ![Screenshot](images/something.png) 
+  
+  - Installation Type
+      
+       ![Screenshot](images/vagrantinstalltype.png) 
+    
+  - Enter your password
+        
+       ![Screenshot](images/vagrantpasswd.png) 
+       
+  - Click success and move to trash
+          
+       ![Screenshot](images/vagrantsuccess.png)         
+  
