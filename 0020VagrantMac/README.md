@@ -31,6 +31,12 @@
     pwd
   ```
   
+  - run 
+  
+  ```bash
+     vagrant plugin install vagrant-disksize
+  ```
+  
   - run vagrant up - this will run for a long time.  Wait until you get a 
   command line
   ```bash
@@ -55,7 +61,7 @@
    
             
   
-### Install Guest Additions
+<!--- ### Install Guest Additions
   
   - Add an optical drive
     
@@ -86,6 +92,8 @@
   ![Screenshot](images/close.png) 
      
   ![Screenshot](images/poweroff.png) 
+  
+  --->
   
 ### Recycle vagrant  
   

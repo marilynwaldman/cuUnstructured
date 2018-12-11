@@ -39,7 +39,7 @@
 ## Download and Install Vagrant
 ### Open a browser window and go to:  [Download Vagrant](https://www.vagrantup.com/downloads.html) 
 
-- Download VirtualBox
+- Download Vagrant
   
      ![Screenshot](images/downloadvagrant.png) 
       
