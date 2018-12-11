@@ -44,7 +44,7 @@ Email:  TBD
 
 | Directory | Topic | Link |
 | ------------- | ------------- |------------- |
-|0100 | Stack - Local cmd-line, Docker, Git      | |
+|0100 | VirtualBox - Vagrant      | |
 |0200 | Hadoop        ||
 |0300 | Spark       ||
 |0400 | Hive       ||
@@ -82,6 +82,7 @@ Email:  TBD
 
 | Lab  | Folder |  Readme|
 | ------------- | ------------- | ------------- |
+|VirtualBox | 0010VBMac |  [Local File System](0100LocalFileSystem/README.md)     | 
 |Local File System  | 0100LocalFileSystem |  [Local File System](0100LocalFileSystem/README.md)     | 
 |Install Docker  | 0110InstallDocker  |[Install Docker](0110InstallDocker/README.md)     | 
 |Docker hello-world  |0120DockerHelloWorld|  [Docker #1 Hello World](0120DockerHelloWorld/README.md)     | 
