@@ -27,7 +27,7 @@
   
   - Installation Type
       
-       ![Screenshot](images/installationtype.png) 
+       ![Screenshot](images/installtype.png) 
     
   - Enter your password
         
