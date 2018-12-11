@@ -82,7 +82,8 @@ Email:  TBD
 
 | Lab  | Folder |  Readme|
 | ------------- | ------------- | ------------- |
-|VirtualBox | 0010VBMac |  [Local File System](0100LocalFileSystem/README.md)     | 
+|VB Vagrant Install Mac| 0010VBMac |  [Install VB Vagrant Mac](https://github.com/marilynwaldman/cuUnstructured/tree/master/0010VBMac)     | 
+|Vagrant Mac Guest Editions | 0020VagrantMac |  [Set up Vagrant (Guests Additions)](https://github.com/marilynwaldman/cuUnstructured/tree/master/0020VagrantMac)     | 
 |Local File System  | 0100LocalFileSystem |  [Local File System](0100LocalFileSystem/README.md)     | 
 |Install Docker  | 0110InstallDocker  |[Install Docker](0110InstallDocker/README.md)     | 
 |Docker hello-world  |0120DockerHelloWorld|  [Docker #1 Hello World](0120DockerHelloWorld/README.md)     | 
