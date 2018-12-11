@@ -51,21 +51,22 @@
   
   - Double click and Run
   
-       ![Screenshot](images/vagrantdoubleclick.png) 
+     ![Screenshot](images/vagrantdoubleclick.png) 
   
   - Installation
-    
-       ![Screenshot](images/something.png) 
+  
+     ![Screenshot](images/vagrantinstalltype.png)
+       
   
   - Installation Type
       
-       ![Screenshot](images/vagrantinstalltype.png) 
+     ![Screenshot](images/something.png)  
     
   - Enter your password
         
-       ![Screenshot](images/vagrantpasswd.png) 
+     ![Screenshot](images/vagrantpasswd.png) 
        
   - Click success and move to trash
           
-       ![Screenshot](images/vagrantsuccess.png)         
+     ![Screenshot](images/vagrantsuccess.png)         
   
