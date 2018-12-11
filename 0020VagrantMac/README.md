@@ -12,7 +12,7 @@
 
 ## VAGRANT
 
-  - Open a terminal and clone this repo
+  - Open a terminal 
   
       ![Screenshot](images/openaterminal.png) 
       
@@ -42,10 +42,6 @@
   - You will see a terminal like this
     
    ![Screenshot](images/seeterminal.png) 
-  
-  - Installation Type
-      
-   ![Screenshot](images/installtype.png) 
     
   - Go to APPS and double click on VirtualBox
         
