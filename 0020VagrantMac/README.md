@@ -14,7 +14,7 @@
 
   - Open a terminal 
   
-      ![Screenshot](images/openaterminal.png) 
+  ![Screenshot](images/openaterminal.png) 
       
   - Make sure you are in your $HOME directory and clone vagrant
   
@@ -56,10 +56,6 @@
             
   
 ### Install Guest Additions
-
-  - Add an optical drive
-  
-  ![Screenshot](images/gotosettings.png) 
   
   - Add an optical drive
     
@@ -71,7 +67,7 @@
       
   - Add the optical drive
         
-  ![Screenshot](images/addanopticldrive.png) 
+  ![Screenshot](images/addanopticaldrive.png) 
   
   - Select "Empty"
           
@@ -122,11 +118,7 @@
    ![Screenshot](images/userinterface.png)   
    
    - Click the little fish on the upper left hand side
-      
-   ![Screenshot](images/littlebluefishe.png)  
-   
-   - Click the little fish on the upper left hand side
-         
+               
    ![Screenshot](images/littlebluefish.png) 
    
    - This is your terminal
