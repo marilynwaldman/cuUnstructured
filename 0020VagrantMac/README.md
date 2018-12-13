@@ -1,14 +1,14 @@
 # VirtualBox - Vagrant Setup
 > Start vagrant and install guest additions
 
-  - There are issues with Virtual Box especially with copy/paste
+  - There are issues with Virtual Box on a MAC, especially with copy/paste
   - We will start our virtual machine then install guest additions so you can
     copy and paste.
     
  
 ###  NOTICE 
 #### COPY will be (SHIFT CONTROL C)
-#### PASTE will be (SHIFT CONTROL VZ)
+#### PASTE will be (SHIFT CONTROL V)
 
 ## VAGRANT
 
@@ -148,6 +148,9 @@ Marilyns-MacBook-Pro:vagrant marilynwaldman$ vagrant halt
 Marilyns-MacBook-Pro:vagrant marilynwaldman$ 
 
 ````
+
+
+
    
       
      
