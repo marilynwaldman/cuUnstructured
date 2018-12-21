@@ -7,7 +7,15 @@
    - Docker
    - Git
    
-#### 1.  Go to your $HOME directory and get class notebooks  
+#### 1. Start your VM - open a terminal and issue "vagrant up"
+
+````bash
+     vagrant up
+````
+
+#### 2.  Start a terminal in the VM   
+   
+#### 3.  Go to your $HOME directory and get class notebooks  
    
 ````
     $ cd
@@ -19,7 +27,7 @@
 
 
 
-#### 2.  From the terminal window pull the spark image. 
+#### 4.  From the terminal window pull the spark image. 
         This takes a long time to download so please run this before coming to class.
 
 ````
@@ -28,7 +36,7 @@
 ```` 
 
 
-####  3.  From the terminal window run the image and start Jupyter.  Make sure you are in your $Home directory. 
+####  5.  From the terminal window run the image and start Jupyter.  Make sure you are in your $Home directory. 
 
 ````
     $ cd
@@ -40,15 +48,15 @@
 ![Screenshot](images/token.png)
 
 
-####  4.  Go to localhost:8888
+####  6.  Go to localhost:8888
 
 ![Screenshot](images/localhost.png) 
 
-####  5.  Paste your token into the box
+####  7.  Paste your token into the box
 
 ![Screenshot](images/copypastetoken.png) 
 
-####  6.  Jupyter notebooks should appear.
+####  8.  Jupyter notebooks should appear.
 
 ![Screenshot](images/sparknotebook.png) 
 
