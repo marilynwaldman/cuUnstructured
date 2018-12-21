@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c13a39be-cbf4-4f22-8300-be4cafc1839b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +14,13 @@
     <session id="-1923946044">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -63,8 +66,8 @@
         <entry file="file://$PROJECT_DIR$/0010VBMac/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="615">
-                <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+              <first_editor relative-caret-position="1080">
+                <caret line="72" selection-start-line="38" selection-end-line="72" />
               </first_editor>
               <second_editor />
             </state>
@@ -76,11 +79,11 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="271">
+              <first_editor relative-caret-position="1290">
                 <caret line="86" column="27" selection-start-line="86" selection-start-column="27" selection-end-line="86" selection-end-column="27" />
               </first_editor>
               <second_editor />
@@ -88,12 +91,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0020VagrantMac/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="506">
-                <caret line="162" column="5" lean-forward="true" selection-start-line="162" selection-start-column="5" selection-end-line="162" selection-end-column="5" />
+              <first_editor relative-caret-position="370">
+                <caret line="152" selection-end-line="152" />
               </first_editor>
               <second_editor />
             </state>
@@ -129,9 +132,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="209" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="733" />
+    <option name="height" value="732" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -145,13 +149,23 @@
               <item name="cuUnstructured" type="b2602c69:ProjectViewProjectNode" />
               <item name="cuUnstructured" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cuUnstructured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuUnstructured" type="462c0819:PsiDirectoryNode" />
+              <item name="0010VBMac" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cuUnstructured" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cuUnstructured" type="462c0819:PsiDirectoryNode" />
+              <item name="0020VagrantMac" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,17 +212,18 @@
       <workItem from="1544249449041" duration="31302000" />
       <workItem from="1544497175019" duration="136000" />
       <workItem from="1544545720562" duration="14342000" />
+      <workItem from="1544898431185" duration="1562000" />
+      <workItem from="1545086835096" duration="74000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45780000" />
+    <option name="totallyTimeSpent" value="47416000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="733" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="732" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -328,9 +343,6 @@
     <entry file="file://$PROJECT_DIR$/0010VBMac/images/doubleclickdrag.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/0020VagrantMac/images/cdtovagrant.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/0020VagrantMac/images/clone.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -357,8 +369,21 @@
     <entry file="file://$PROJECT_DIR$/0010VBMac/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="615">
-            <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <first_editor relative-caret-position="1080">
+            <caret line="72" selection-start-line="38" selection-end-line="72" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0020VagrantMac/images/cdtovagrant.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1290">
+            <caret line="86" column="27" selection-start-line="86" selection-start-column="27" selection-end-line="86" selection-end-column="27" />
           </first_editor>
           <second_editor />
         </state>
@@ -367,18 +392,8 @@
     <entry file="file://$PROJECT_DIR$/0020VagrantMac/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="506">
-            <caret line="162" column="5" lean-forward="true" selection-start-line="162" selection-start-column="5" selection-end-line="162" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="271">
-            <caret line="86" column="27" selection-start-line="86" selection-start-column="27" selection-end-line="86" selection-end-column="27" />
+          <first_editor relative-caret-position="370">
+            <caret line="152" selection-end-line="152" />
           </first_editor>
           <second_editor />
         </state>
