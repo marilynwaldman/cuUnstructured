@@ -19,7 +19,7 @@
    
 ````
     $ cd
-    $ rm -rf cuUnstructured
+    $ rm -rf unstructuredNotebooks
     $ git clone  https://github.com/marilynwaldman/unstructuredNotebooks.git && rm -rf /unstructuredNotebooks.git
 
 ````
@@ -30,8 +30,13 @@
 #### 4.  From the terminal window pull the spark image. 
         This takes a long time to download so please run this before coming to class.
 
+```bash
+    $ sudo docker system prune
+    
 ````
-    $ docker pull  jupyter/all-spark-notebook
+
+```bash    
+    $ sudo docker pull  jupyter/all-spark-notebook
 
 ```` 
 
@@ -40,7 +45,7 @@
 
 ````
     $ cd
-    $ docker run  -it --rm -p 8888:8888 -v $HOME/unstructuredNotebooks/work:/home/jovyan --name spark jupyter/all-spark-notebook
+    $ sudo docker run  -it --rm -p 8888:8888 -v $HOME/unstructuredNotebooks/work:/home/jovyan --name spark jupyter/all-spark-notebook
 
 ```` 
 ##### It should look like this.  Copy (CNTL-C ) the token
