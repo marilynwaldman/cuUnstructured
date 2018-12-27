@@ -45,7 +45,8 @@
 
 ````
     $ cd
-    $ sudo docker run  -it --rm -p 8888:8888 -v $HOME/unstructuredNotebooks/work:/home/jovyan --name spark jupyter/all-spark-notebook
+    $ ocker run -d   -p 8888:8888  -v $HOME/python-spark-streaming:/home/jovyan/work:rw jupyter/all-spark-notebook start-notebook.sh --NotebookApp.token='' 
+
 
 ```` 
 ##### It should look like this.  Copy (CNTL-C ) the token
